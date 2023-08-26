@@ -38,7 +38,7 @@ We believe in collaborative learning. Schools interested in partnering with us c
 
 Our industrial training programs are designed to bridge the gap between academic learning and industry demands. Students gain practical skills and exposure to real-world scenarios through workshops, internships, and expert-led sessions.
 
-[Link 1](https://drive.google.com/uc?id=1d58GtKy3inprookmS4vBUWRS5EsuFbav)
-[Link 2](https://drive.google.com/uc?id=1R_wY60Gs_gmyJNCLpsolOYOPTQc_L6us)
-[Link 3](https://drive.google.com/uc?id=1O13v4CFrKG1mWKK3mno87wy5FInO99uW)
-[Link 4](https://drive.google.com/uc?id=1-UTyO8sBaD6-WW6pk693MvoIve4uCmTi)
+![Link 1](https://drive.google.com/uc?id=1d58GtKy3inprookmS4vBUWRS5EsuFbav)
+![Link 2](https://drive.google.com/uc?id=1R_wY60Gs_gmyJNCLpsolOYOPTQc_L6us)
+![Link 3](https://drive.google.com/uc?id=1O13v4CFrKG1mWKK3mno87wy5FInO99uW)
+![Link 4](https://drive.google.com/uc?id=1-UTyO8sBaD6-WW6pk693MvoIve4uCmTi)
